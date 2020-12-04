@@ -1,0 +1,108 @@
+Sobre a Análise PESTEL, assinale a alternativa errada:;
+a)É uma ferramente de análise externa que permite avaliar o cenário externo de acordo com 6 fatores;
+b)A análise PESTEL é uma ferramenta de análise interna e utiliza 4 fatores, são eles: pontos fortes, pontos fracos, oportunidades e ameaças;
+c)Essa análise inclui fatores políticos, econômicos, sociais, tecnológicos, ecológicos e legais;
+2
+|
+Outra ferramentade análise de cenários é a Análise SWOT, ou FOFA. A sigla SWOT corresponde aos seguintes termos:;
+a)Strengths, Weaknesses, Opportunities, Threats, as quais significam respectivamente: fraquezas, ameaças, oportunidades e forças.;
+b)Strengths, Weaknesses, Opportunities, Threats, as quais significam respectivamente: forças, fraquezas, oportunidades e ameaças.;
+c)Strengths, Weaknesses, Opportunities, Threats, as quais significam respectivamente: ameaças, forças, oportunidades e fraquezas.;
+2
+|
+ “[...]essencialmente entregar serviços de valor ao cidadão de forma contínua, sem  interrupções.”  O  fragmento  dessa  frase  traduz  um  conceito  importante estudado  nesta  Unidade  do  curso.  Marque  a  alternativa  que  identifica  a  qual conceito essa frase se refere.;
+a)Missão;
+b)Visão;
+c)Negócio / Atuação;
+3
+|
+Os projetos possuem um ciclo de vida, isso significa dizer que:;
+a)Projetos são executados de forma constante e não existe monitoramento e controle de execução.;
+b)Projetos  são  iniciados,  planejados,  executados  e  encerrados,  onde  a  fase  de execução normalmente é monitorada e controlada.;
+c)Projetos possuem início, meio e fim e são incontroláveis.;
+2
+|
+Marque  a  alternativa  correta  que  contém  as  palavras  que  respectivamente completam a frase “O Ministério Público possui papel ___________ primordial para  a  sociedade  no  cumprimento  da  Constituição  Federal  e  das  Leis, defendendo a manutenção da ____________.”;
+a)Judiciario, População;
+b)Fiscalizatório, Democracia;
+c)Assistencial, Democracia;
+2
+|
+De acordo com o material do curso, o planejamento estratégico possui alguns objetivos, com exceção de:;
+a)Diminuir riscos de tomar uma decisao errada;
+b)Fortalecer as oportunidades e eliminar as ameaças;
+c)Pensar e refletir sobre o futuro para construir seu proprio futuro;
+2
+|
+Com relação ao Balanced Scorecard (BSC)interprete as alternativas e marque a que contém afirmação correta.;
+a)O Balanced Scorecard (BSC)permite  realizar  a  primeira  etapa  do  planejamento estratégico,  a  qual  está  focada  na  definição  dos  objetivos  estratégicos  e  na construção do mapa estratégico.;
+b)No BSC os objetivos estratégicos devem ser elaborados de forma isolada entre si, sem nenhum tipo de relação entre eles.;
+c)O BSC pode ser considerado um sistema de gestão que habilita as organizações a elucidar sua visão e missão, e traduzi-la em ações.;
+3
+|
+A gestão estratégica é caracterizada por:;
+a)Um  processo  de  ação  tática  que  pretende  assegurar  a  organização,  o  senso  de direção,  continuidade  em  curto  e  longo  prazo,  com  prejuízo  de  sua  flexibilidade  e agilidade nas ações cotidianas.;
+b)Um processo de ação operacional que pretende assegurar a organização, o senso de direção, continuidade em médio e longo prazo, com prejuízo de sua flexibilidade e agilidade nas ações cotidianas.;
+c)Um processo de ação gerencial que pretende assegurar a organização, o senso de direção,  continuidade  em  médio  e  longo prazo,  sem  prejuízo  de  sua  flexibilidade  e agilidade nas ações cotidianas.;
+3
+|
+Dentre as perspectivas clássicas que formam o Balanced Scorecard (BSC)tem-se a perspectiva de aprendizado e crescimento, a qual consiste em:;
+a)Uma perspectiva em que as organizações identificam os processos críticos para a realização dos objetivos das duas perspectivas anteriores.;
+b)Uma  perspectiva  em  que  a  capacitação  da  organização  se  dá  por  meio  dos investimentos  em  novos  equipamentos,  em  pesquisa,  em  sistemas  e  nos  recursos humanos.;
+c)Uma  perspectiva  que  monitora  se  a  estratégia  da  organização  está  contribuindo para a melhoria dos resultados financeiros.;
+2
+|
+Adaptando as perspectivas do BSC para o setor público, elas se resumem em três. Assinale a alternativa que contém adescrição erradada perspectiva.;
+a)Perspectiva de orçamento: prover recursos para treinamento e capacitação.;
+b)Perspectiva  de  aprendizado  e  crescimento,  a  qual  contribui  para  a  melhoria  do atendimento às demandas da sociedade por cidadania e justiça;
+c)Perspectiva  dos  processos  internos,  a  qual  resulta  em  menor  impacto  social  ao Estado do RN, consequentemente, implica numa perspectiva de unidade.;
+3
+|
+Existem algumas etapas para a implantação da gestão estratégica, são elas:;
+a)Preparação, Definições Estratégicas e Feedback.;
+b)Preparação, Definições Estratégicas, Implantação e Comunicação e Feedback.;
+c)Definições Estratégicas, Implantação e Comunicação e Feedback.;
+2
+|
+Marque a alternativa que contém a descrição correta do que é a Reunião de Análise Estratégica (RAE).;
+a)É  uma  reunião  de  nível  tático  que  permite  revisar  o  planejamento  de  forma recorrente, incluir e excluir projetos, ajustar indicadores e metas e até revisar o plano de ação.;
+b)São  reuniões  integradas  e  periódicas,  utilizadas  para  avaliar  os  resultados alcançados e estabelecer opções de ação futura para as organizações.;
+c)É uma reunião de nível operacional que permite revisar o planejamento de forma isolada, manter projetos, ajustar indicadores e metas e até revisar o plano de ação.;
+2
+|
+De acordo com as definições apresentadas no material do curso, marque a alternativa que contém a descrição correta de fases da administração pública.;
+a)A  administração  pública  gerencial  se  trata  de  um  modelo  baseado  no  cliente-cidadão,  o  qual  é  o  principal  beneficiado  dos  serviços  e  produtos  de  organizações públicas.;
+b)A administração pública burocrática é aquela em que existe influência da iniciativa privada em forma de interesses na máquina pública.;
+c)Administração  patrimonialista  é  baseada  na  formalidade  dos  procedimentos, centralização  das  decisões,  impessoalidade,  controle  e  supervisão  com  rotinas rígidas.;
+1
+|
+Leia  as  sentenças  abaixo  e  marque  a  alternativa  que  contém  uma afirmação correta.;
+a)Os conceitos de administração e gestão são equivalentes, a única diferença entre eles consiste na nomenclatura.;
+b)A  gestão  para  resultados  possui  três  propósitos  fundamentais:  otimização  de recursos,  processo  de  produção  de  serviços  e  produtos  públicos  equitativo  e controlável,   promoção   e   desenvolvimento   de   mecanismos   que   melhorem   o desempenho dos servidores.;
+c)O planejamento tático identifica procedimentos e processos específicos nos níveis inferiores  da  organização,  está  relacionado  com  objetivos  de  longo  prazo  e  ações para alcançá-los.;
+2
+|
+Marque a alternativa que contém uma sentença errada.;
+a)O mapa estratégico é a representação gráfica da estratégia construída com base no BSC.;
+b)Segundo Kaplan e Norton (2006) são três as técnicas de alinhamento para construir uma  ponte  entre  os  ativos  intangíveis  e  tangíveis:  identificar  funções  estratégicas, definir   um   portfólio   estratégico   de   TI   e   definir   uma   agenda   para   mudança organizacional.;
+c)Os indicadores são uma medida apenas qualitativa utilizada para organizar e captar informações relevantes dos elementos que compõem o objeto da observação.;
+3
+|
+Quanto aos planos essenciais de ação estratégica, marque a alternativa que contém sentença errada.;
+a)São pelos menos 3 planos essenciais de ação: plano de comunicação, plano de monitoramento e avaliação, plano de alinhamento.;
+b)No  plano  de  monitoramento  e  avaliação,  os  principais  atores  do  processo  de monitoramento e avaliação do planejamento estratégico são apenas as equipes de projeto e a Administração Superior da Instituição.;
+c)O  plano  de  comunicação  ele  é  utilizado  para  que  todos  os  envolvidos  tenham  o mesmo nível de informação.;
+2
+|
+Com relação ao conceito de projeto, assinale a alternativa correta.;
+a)Um projeto é um esforço temporário com início e fim definidos, cujo objetivo é criar produtos   e   serviços   ou   obter   resultados   exclusivos,   por   meio   de   atividades planejadas,  executadas  e  controladas,  utilizando  recursos  humanos,  materiais  e financeiros específicos.;
+b)Um projeto é um esforço permanente com início e fim não definidos, cujo objetivo é  desenvolver  produtos  e  serviços  ou  obter  resultados  exclusivos,  por  meio  de atividades  planejadas,  executadas  e  controladas,  utilizando  recursos  humanos, materiais e financeiros específicos.;
+c)Um projeto é um esforço temporário com início e fim definidos, cujo objetivo é criar produtos  e  serviços  ou  obter  resultados  exclusivos,  por  meio  de  atividades  não planejadas, executadas e não controladas, utilizando recursos humanos, materiais e financeiros específicos.;
+1
+|
+Quanto aos tipos de execução de projetos é possível afirmar que:;
+a)Existem dois tipos de execução de projetos e estas ocorrem de forma isolada.;
+b)Existem dois tipos de execução de projetos, as quais ocorrem de forma paralela e são classificadas em execução técnica e gerencial.;
+c)A execução gerencial é relacionada às atividades que precisam ser implementadas para a execução do produto do projeto.;
+2
+|
